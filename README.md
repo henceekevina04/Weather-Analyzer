@@ -39,12 +39,15 @@ python weather.py
 ---
 
 ## 📸 Screenshots  
-(Add screenshots here after running the program)
+
 
 ---
+<img width="1649" height="707" alt="Screenshot 2025-11-24 013146" src="https://github.com/user-attachments/assets/dcce5ebf-0254-4a27-b6c9-6f84478f7f67" />
+<img width="593" height="174" alt="Screenshot 2025-11-24 013248" src="https://github.com/user-attachments/assets/db446383-8f5b-41e0-9679-8619f83dcaf5" />
 
 ## 👩‍💻 Author
 Henceekevina04  
+
 
 ---
 
